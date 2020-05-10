@@ -1,0 +1,8 @@
+1;1
+Salliquelo;2;2
+Bahia blanca;4;4
+Trenque lauquen;4;0
+Carhue;0;3
+Alpachiri;30;30
+Pringles;40;40
+Usuahia;1234.4;1000.9999

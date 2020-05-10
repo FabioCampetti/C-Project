@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1538861982 source:/home/alumno/ProyectoC/main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<tgmath.h>
+	"colacp.h"
+	"lista.h"
+
+1538863349 source:/home/alumno/ProyectoC/colacp.c
+	<stdlib.h>
+	<stdio.h>
+	"colacp.h"
+	"enums.h"
+
+1538700715 /home/alumno/ProyectoC/colacp.h
+
+1538093156 /home/alumno/ProyectoC/enums.h
+
+1538696802 source:/home/alumno/ProyectoC/lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1538674137 /home/alumno/ProyectoC/lista.h
+
